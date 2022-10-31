@@ -18,6 +18,7 @@ To get a local copy up and running follow these simple example steps.
 - Install git and nodejs.
 - Run command `git clone git@github.com:Kweeka1/awesome-books-es6.git` in your terminal or CMD.
 - Open awesome-books-es6 folder.
+- Run `npm install`
 - Run command `npx serve`.
 
 
