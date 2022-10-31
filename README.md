@@ -10,6 +10,10 @@ Awesome Books project is a small application where you can save your favorite bo
 
 To get a local copy up and running follow these simple example steps.
 
+## Live Demo
+
+[Open live demo](https://kweeka1.github.io/awesome-books-es6/)
+
 ### Setup
 - Install git and nodejs.
 - Run command `git clone git@github.com:Kweeka1/awesome-books-es6.git` in your terminal or CMD.
