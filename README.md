@@ -11,10 +11,10 @@ Awesome Books project is a small application where you can save your favorite bo
 To get a local copy up and running follow these simple example steps.
 
 ### Setup
-> Install git and nodejs.
-> Run command `git clone https://github.com/SekoViper/Awesome-Books.git` in your terminal or CMD.
-> cd Awesome-Books.
-> Run command `npx serve`.
+- Install git and nodejs.
+- Run command `git clone git@github.com:Kweeka1/awesome-books-es6.git` in your terminal or CMD.
+- Open awesome-books-es6 folder.
+- Run command `npx serve`.
 
 
 ## Authors
