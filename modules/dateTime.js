@@ -1,4 +1,4 @@
-import luxon from './luxon.js';
+import * as luxon from '../node_modules/luxon/build/es6/luxon.js';
 
 const showDateTime = (currentDateEl) => {
   const dateTimeNow = luxon.DateTime.now();
